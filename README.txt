@@ -1,0 +1,1 @@
+This function is to calculate the combination 'n C r' using factorization.
